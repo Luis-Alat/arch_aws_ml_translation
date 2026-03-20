@@ -213,3 +213,6 @@ __marimo__/
 
 # Data
 data/*
+
+# Other
+conda_command
